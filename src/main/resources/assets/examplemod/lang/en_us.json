@@ -1,0 +1,9 @@
+{
+  "item.examplemod.copper": "Copper",
+  "item.examplemod.custom_sword": "Arthur Custom Sword",
+  "item.examplemod.iron_ingot_arthur": "Nuclear Iron Ingot",
+  "item.examplemod.ender_ingot": "Arthur Ender Ingot",
+  "block.examplemod.copper_ore": "Copper Ore",
+  "block.examplemod.arthur": "Arthur",
+  "itemGroup.examplemod": "Abu e Arthur Example Mod"
+}

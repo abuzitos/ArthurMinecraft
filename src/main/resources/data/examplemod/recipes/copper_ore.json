@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "examplemod:copper"
+    }
+  },
+  "result": {
+    "item": "examplemod:copper_ore",
+    "count": 1
+  }
+}
